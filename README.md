@@ -1,2 +1,3 @@
 # poki-gen
-lets see how far i get
+
+An effort to make a new pokemon generator.
