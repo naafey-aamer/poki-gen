@@ -1,3 +1,3 @@
 # poki-gen
 
-An effort to make a new pokemon generator.
+An effort to make a new pokemon generator underway...
